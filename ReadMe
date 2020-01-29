@@ -1,0 +1,13 @@
+Hello, 
+
+	The only parts of this assignment I did not complete was the refracting.
+
+	Basic lighting was implemented,
+	and Reflections and shadows as well.
+
+	run make and run ./rayT
+	[Note: It takes a while to run]
+
+	./rayT 1 => basic phong and diffuse/specular lighting
+	./rayT 2 => reflectivity and shadow
+	./rayT 3 => mirror and balls
